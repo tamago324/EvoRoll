@@ -46,6 +46,10 @@
 * JLCPCB の3Dプリントを使う想定
 * stl 内の stl ファイルを SLA(Resin) で発注する
 
+## ファームウェア
+
+https://github.com/tamago324/keyboard-firmwares/tree/master/keyboards/evoroll
+
 
 ## LICENSE
 
