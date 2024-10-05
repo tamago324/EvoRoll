@@ -1,7 +1,0 @@
-(fp_lib_table
-  (version 7)
-  (lib (name "foostan_kbd")(type "KiCad")(uri "${KIPRJMOD}/foostan_kbd/kicad-footprints/kbd.pretty")(options "")(descr ""))
-  (lib (name "evoroll")(type "KiCad")(uri "${KIPRJMOD}/evoroll.pretty")(options "")(descr ""))
-  (lib (name "Keebio-Parts")(type "KiCad")(uri "${KIPRJMOD}/Keebio-Parts.pretty")(options "")(descr ""))
-  (lib (name "keyswitch")(type "KiCad")(uri "${KIPRJMOD}/keyswitches.pretty")(options "")(descr ""))
-)
