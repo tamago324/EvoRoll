@@ -4,51 +4,15 @@
 
 > NOTE: KiCad 7 を使用しています
 
+## [v1](v1/README.md)
+
 ![](./assets/main_pic.JPEG)
 
 
 
-## 特徴
+## [v2](v2/README.md)
 
-* GameBall のボールを使用したトラックボール付きキーボード
-* マウスキーが独立している
-* [monkeypad/pmw3360-breakout](https://github.com/monkeypad/pmw3360-breakout) を使用
-
-## 部品
-
-|部品|リンク|備考|
-|---|---|---|
-|PMW3360ブレークアウトボード|[monkeypad/pmw3360-breakout](https://github.com/monkeypad/pmw3360-breakout)|Booth で購入したら、ピンヘッダーもついていたけど、おそらく[これ](https://www.hirosugi-net.co.jp/shop/c/c12103211/)|
-|ピンソケット 8ピン|https://www.hirosugi-net.co.jp/shop/c/c12111211/|FSR-41085-08 / 8.5mmのものを使用する|
-|スペーサー M2 5mm|https://www.hirosugi-net.co.jp/shop/c/c10141012/|トッププレートとボトムプレートを止めるために使用する|
-|ねじ M2 3mm|https://wilco.jp/products/F/FX-EB.html#page3|トッププレートとボトムプレートを止めるために使用する|
-|タッピングネジ M2 8mm|https://wilco.jp/products/F/FPP-N.html|FPP-0000N / ボトムプレートとボールケースを止めるために使用する。JLCPCBのレジンに使えるタッピングネジ|
-|RP2040-Zero|||
-|ダイオード|||
-|chocソケット|||
-|TRRSソケット|||
-
-
-### ボールケース関連
-
-ボールケースは [trackmacro](https://github.com/tamago324/trackmacro/tree/main/stl) のケースを使用している
-
-|部品|リンク|備考|
-|---|---|---|
-|ベアリング|https://amzn.asia/d/8OED4Yl|DDL-520ZZW52 / 内径2mm、外形5mm、幅2.5mm|
-|ねじ M2 8mm||なべ小ねじならなんでもOK (頭径3.5mm、高さ1.3)|
-|ナット M2||1種のナットを使っている|
-|磁石 3x2mm|https://amzn.asia/d/gBrgy0N|ボールケースの上下に瞬間接着剤 (アロンアルフア EXTRA 速効多用途) でつけている|
-
-
-## 3Dプリント
-
-* JLCPCB の3Dプリントを使う想定
-* stl 内の stl ファイルを SLA(Resin) で発注する
-
-## ファームウェア
-
-https://github.com/tamago324/keyboard-firmwares/tree/master/keyboards/evoroll
+TODO: 写真を貼る
 
 
 ## LICENSE
