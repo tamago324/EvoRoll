@@ -12,7 +12,7 @@
 
 ## [v2](v2/README.md)
 
-TODO: 写真を貼る
+![](./assets/evoroll_v2_1.JPEG)
 
 
 ## LICENSE

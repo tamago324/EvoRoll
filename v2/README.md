@@ -4,7 +4,9 @@
 
 > NOTE: KiCad 7 を使用しています
 
-> TODO: 写真を貼る
+![](../assets/evoroll_v2_1.JPEG)
+
+![](../assets/evoroll_v2_2.JPEG)
 
 ## v1 からの変更点
 

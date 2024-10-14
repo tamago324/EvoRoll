@@ -4,7 +4,7 @@
 
 > NOTE: KiCad 7 を使用しています
 
-![](./assets/main_pic.JPEG)
+![](../assets/main_pic.JPEG)
 
 
 
